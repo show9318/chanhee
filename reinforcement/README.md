@@ -16,3 +16,6 @@ python test.py
 * TenforFlow
 * Matplotlib
 * ImageMagick (Optional)
+
+##출처
+http://blog.algolab.jp/post/2016/08/01/tf-dqn-simple-1/
